@@ -1,7 +1,7 @@
 ## CodeWarChallenges
 Welcome to my daily Codewar challenge Repository
 
-<img src="github/codewar.jpg" width="100%">
+<img src="github/Codewars.jpg" width="100%">
 
 I try to do at least one to five codewar problems per day or more if I'm up for it. I mainly solve Javascript problems.
 
